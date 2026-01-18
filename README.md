@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/bwpb5oGHXZg' title='lab0' width='' alt='Video Walkthrough-lab0' />
+## Video Walkthrough
+
+[![Lab0 Walkthrough](https://img.youtube.com/vi/bwpb5oGHXZg/0.jpg)](https://youtu.be/bwpb5oGHXZg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
