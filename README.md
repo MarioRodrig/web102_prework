@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 ## Video Walkthrough
 
-[![Lab0 Walkthrough](https://img.youtube.com/vi/bwpb5oGHXZg/0.jpg)](https://youtu.be/bwpb5oGHXZg)
+[![Lab0 Walkthrough](https://img.youtube.com/vi/Ga3qICK77fg/0.jpg)](https://youtu.be/Ga3qICK77fg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
